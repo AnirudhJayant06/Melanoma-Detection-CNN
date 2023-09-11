@@ -14,7 +14,7 @@
 
 - Dataset Info:
   1. The dataset is from ISIC - The International Skin Imaging Collaboration
-      - Link: [Click Here](#https://drive.google.com/u/0/uc?id=1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs&export=download)
+      - Link: [Click Here](https://drive.google.com/u/0/uc?id=1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs&export=download)
   2. It has 2239 samples in training data and 118 samples in test data
   3. It has total 9 classes - 'actinic keratosis', 'basal cell carcinoma', 'dermatofibroma', 'melanoma', 'nevus', 'pigmented benign keratosis', 'seborrheic keratosis', 'squamous cell carcinoma' and 'vascular lesion'
      
